@@ -1,0 +1,2 @@
+This is my first project ever with programing, it is supposed to be a simple catcher game. Nothing fancy, but I did try to make a real game
+with a losing condition. There's no win condition, just an infinite loop of racking up points if you can survive.
